@@ -37,7 +37,7 @@ const Hero = () => {
             Being creative is my passion,Enthusiastic and always looking for
             oppurtunity in multiple fields
           </p>
-          <div className="">
+          <div className="py-10">
             <a
               href="https://www.linkedin.com/in/taha-hussain-61aa9b253/"
               className="px-6 py-3 hover:bg-blue-500 mr-4 rounded-[10px] bg-[white] text-[black] bg-gradient-to-br from-blue-300 via-purple-500"
