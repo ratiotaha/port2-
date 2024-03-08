@@ -45,8 +45,8 @@ const Hero = () => {
               Hire Me
             </a>{" "}
             <a
-              href="/real cv.pdf"
-              download="real cv.pdf"
+              href="/tahahussain.pdf"
+              download="tahahussain.pdf"
               className="px-7 py-4 rounded-[10px] mb-10 hover:bg-blue-500 bg-[white] text-[black]"
             >
               {" "}
