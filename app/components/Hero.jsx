@@ -24,6 +24,8 @@ const Hero = () => {
                   1000,
                   "Blog writer",
                   1000,
+                  "WordPress dev",
+                  1000,
                 ]}
                 wrapper="span"
                 speed={200}
@@ -45,8 +47,8 @@ const Hero = () => {
               Hire Me
             </a>{" "}
             <a
-              href="/tahahussain.pdf"
-              download="tahahussain.pdf"
+              href="/tahahussaincv.pdf"
+              download="tahahussaincv.pdf"
               className="px-7 py-4 rounded-[10px] mb-10 hover:bg-blue-500 bg-[white] text-[black]"
             >
               {" "}

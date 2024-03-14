@@ -54,6 +54,7 @@ export default function About() {
               <li>Key word researching</li>
               <li>Blog writing </li>
               <li>Prompt generator</li>
+              <li>Wordpress developer</li>
             </ul>
           </div>
         )}
